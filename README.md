@@ -1,5 +1,4 @@
-<h1 align="center">XBash Malware Files
-‎
+<h1 align="center">XBash Malware Files\
 <img src="logo.jpg"><br>
 </h1>
 
