@@ -23,6 +23,6 @@ bash script.sh
 
 ```
 
-## For more information checkout:-
+## For more information checkout
 * [Palo Alto Networks Report](https://researchcenter.paloaltonetworks.com/2018/09/unit42-xbash-combines-botnet-ransomware-coinmining-worm-targets-linux-windows/)
 
