@@ -27,6 +27,6 @@ bash script.sh
 
 ```
 
-# For more info check:-
+## For more info check:-
 * [Palo Alto Networks Report](https://researchcenter.paloaltonetworks.com/2018/09/unit42-xbash-combines-botnet-ransomware-coinmining-worm-targets-linux-windows/)
 
