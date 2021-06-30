@@ -1,10 +1,7 @@
 <h1 align="center">XBash Malware Files
 </h1>
 
-## Disclaimer
-*This is for educational purposes only !*
-_Use it at your own risk_<br />
-*I will not be responsible for any misuse*
+
 
 > Executive Summary
 > Unit 42 researchers have found a new malware family that is targeting Linux and Microsoft Windows servers. We can tie this malware, which we have named Xbash, to the Iron Group, a threat actor group known for previous ransomware attacks.
@@ -18,6 +15,11 @@ _Use it at your own risk_<br />
 
 This repo try to archive the files behind this malware, It's recommended that you used some kind of sandbox if you want to run/decompile the elf files. 
 The `script.sh` download all the files present in this repo. 
+
+## Disclaimer
+*This is for educational purposes only !*<br>
+_Use it at your own risk_<br>
+*I will not be responsible for any misuse*
 
 ## Usage 
 ```sh
