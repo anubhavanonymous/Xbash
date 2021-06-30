@@ -15,14 +15,14 @@
 ## Disclaimer
 *This is for educational purposes only !*<br>
 _Use it at your own risk_<br>
-*I will not be responsible for any misuse*
+*I will not be responsible for any misuse*⚠️
 
 ## Usage 
 ```sh
-bash script.sh
+bash script.sh 
 
 ```
 
-## For more info check:-
+## For more information checkout:-
 * [Palo Alto Networks Report](https://researchcenter.paloaltonetworks.com/2018/09/unit42-xbash-combines-botnet-ransomware-coinmining-worm-targets-linux-windows/)
 
