@@ -12,10 +12,6 @@
 > Xbash is data-destructive; destroying Linux-based databases as part of its ransomware capabilities. We can also find no functionality within Xbash that would enable restoration after the ransom is paid. This means that, similar to NotPetya, Xbash is data destructive malware posing as ransomware.
 
 
-
-This repo try to archive the files behind this malware, It's recommended that you used some kind of sandbox if you want to run/decompile the elf files. 
-The `script.sh` download all the files present in this repo. 
-
 ## Disclaimer
 *This is for educational purposes only !*<br>
 _Use it at your own risk_<br>
